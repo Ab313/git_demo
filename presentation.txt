@@ -1,2 +1,3 @@
 update model in develop-007
-update view in develop-007 
+update view in develop-007
+add unittest in develop-007 
