@@ -1,1 +1,2 @@
-update model in develop-007 
+update model in develop-007
+update view in develop-007 
